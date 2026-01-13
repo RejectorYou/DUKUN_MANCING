@@ -1,5 +1,4 @@
 -- 4HACK UNIVERSAL FIX (TOTAL 3D ANNIHILATION + MODERN GUI) -- Script by 4HACK 
-repeat task.wait()
 until game:IsLoaded()
 local game = game
 local Workspace = game:GetService("Workspace")
